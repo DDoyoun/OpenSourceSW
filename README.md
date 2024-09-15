@@ -1,2 +1,3 @@
 # OpenSourceSW
-오프소스SW 수강 중 사용하게 될 repository
+I'll use this repository in "Open Source SW."
+It may be used to learn about github or others.
